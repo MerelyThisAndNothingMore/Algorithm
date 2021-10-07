@@ -1,2 +1,3 @@
 # Algorithm
-basic knowledge of algorithm
+
+## language notes for c++
