@@ -6,7 +6,7 @@ import Java.DataStructure.List.LinkedList.DoublyLinkedList;
 /**
  * @author: MerelyThis
  * @since: 2023/4/24 周一
- * @description:
+ * @description: LinkedList implementation
  */
 public class Queue<E> implements IQueue<E> {
 
